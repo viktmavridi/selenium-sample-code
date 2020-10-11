@@ -1,0 +1,15 @@
+{
+  "name": "seleniumeasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SingleInputField.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
